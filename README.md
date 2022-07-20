@@ -1,4 +1,4 @@
-# Face-Detection-Regocnition
+# Face-Detection-Recognition
 
 Detect and recognize faces using deep learning model called Siamese
 
